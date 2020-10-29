@@ -1,7 +1,7 @@
 ### v1.2 Internshala Blood Bank Assignment- Rohit Shakya
 ### Install Xampp 
 
-[Click here to view](http://internshalabb.000webhostapp.com/)  
+[Click here to view](http://internshalabloodbank.epizy.com/)  
 
 * For phpmyadmin, sql and apache.
 * For database creation and manipulation
